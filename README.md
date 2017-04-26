@@ -1,4 +1,5 @@
 # hello-world
-Hello World Repo to test GitHub
-Commit new readme
+## Hello Worldy 
+# test GitHub \n
+Commit new readme \n
 A better line
